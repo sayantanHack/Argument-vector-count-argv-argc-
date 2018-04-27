@@ -2,7 +2,7 @@
 This is a code about argument counts and argument vector . 
 
 # Why args in Cli ?
-Sometimes we have to give some args through cli (specially in case of cli tools). 
+Sometimes we have to give some args through cli (specially in case of cli tools). Basically the argc is a int datatype and argvis string (mainly character pointer) .argv is an array of char pointer.
 
 # Sooo how it works ?
 There have no rocket science behind it . 
