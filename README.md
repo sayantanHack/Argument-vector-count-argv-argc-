@@ -6,6 +6,7 @@ Sometimes we have to give some args through cli (specially in case of cli tools)
 
 # Sooo how it works ?
 There have no rocket science behind it . 
+
 ARGC : The argc(arg count) simply counts the numbers of args are passed through CLI , including the 
 object file(./obj for linux) , (.exe on windows).
  Ex. the obj file is named test (test.exe for windows) .When you give the command ./test , then the argc will contain 1 in it. If you 
